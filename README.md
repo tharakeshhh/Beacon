@@ -1,7 +1,6 @@
 # Beacon: Predictive Student Early-Warning & Retention System
 
-**1st Runner-Up, Innovative HackOn @k26!**
-
+# [Beacon: Predictive Student Early-Warning & Retention System](https://claude.ai/public/artifacts/a9602651-bb40-4a25-933f-560dca0cbab6)
 Beacon flags at-risk students from *behavioural movement* rather than lagging
 grade/attendance reports, so institutions get a warning while there is still
 time to act.
